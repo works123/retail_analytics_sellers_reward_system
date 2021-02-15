@@ -58,7 +58,7 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 ### Deliverables
 - Dynamic dashboard - Dashboard where a user can interact with the data.
 - Power Point presentation to Zimla management
-  - your slide should contain a recommendation on what reward system can be used improve sellers' performance
+  - your slide should contain a recommendation on what reward system can be used to improve sellers' performance
 - A local database system
 - Jupyter Notebook containing model implementation
 
