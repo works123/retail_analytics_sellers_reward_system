@@ -6,34 +6,32 @@ Sellers' Reward System Management Dashboard and Performance Prediction System fo
 
 The CEO would like a comprehensive approach to addressing this challenge hence has recommended that a Sellers' Reward System Management dashboard, through which sellers can in real time be effectively managed and monitored. He expects that this significantly improve customers' reviews and result in increased revenue this  year.
 
-You are part of a data science consulting startup that  has been  asked to do a POC to the XXX management team. The outcome of this would determine if your rganization would be engaged implement the solution for <strong>Zimla</strong>. 
+You are part of a data science consulting startup that  has been  asked to do a POC to <strong>Zimla's</strong> management team. The outcome of this would determine if your organization would be contracted to implement  the solution for <strong>Zimla</strong>. 
 
-However their is a little glitch, though <strong>Zimla</strong> has  requested that your startup show case your offering, the CEO would not release its company data, he is sceptical. He thinks data science is all media hype and consulting companies' gimmicks.
+However, their is a little glitch though <strong>Zimla</strong> has  requested that your startup show case your offering, the CEO would not release its company data, he is sceptical. He thinks data science is all media hype and consulting companies' gimmicks.
 
-Your lead consultant rather than reject this proposal, is determined to make a case for data science.  Through research and consultation with  <strong>Zimla's</strong>  management, he discovered that [Olist Store](https://olist.com/) a similar ecommerce company in Brazil  has made public its ecommerce data from 2016 to 2018 with 100k order.  With <strong>Zimla's</strong>  permission he would require you and other team members to develop the POC.
+Your lead consultant rather than reject this proposal, is determined to make a case for data science.  Through research and consultation with  <strong>Zimla's</strong>  management, he discovered that [Olist Store](https://olist.com/) a similar ecommerce company in Brazil  has made public its ecommerce data from 2016 to 2018 on  100k orders.  With <strong>Zimla's</strong>  permission he would require you and other team members to develop the POC.
 
 > Hello Team,
 > 
-> We have an opportunity to bring our company's offering to the retail space. Using the Olist dataset we are to develop a Sellers' Reward System Management Dashboard and Performance Prediction System that would help Zimla answer the following questions and better server their customers:
+> We have an opportunity to bring our company's offerings to the retail space. Using the Olist dataset we are to develop a Sellers' Reward System Management Dashboard and Performance Prediction System that would help <strong>Zimla's</strong>  answer the following questions and better serve their customers:
 >
 > - Who are the sellers we have and what product are they selling?
 > - How many orders are each sellers getting weekly, monthly and yearly?
-> - How are the sellers doing with meeting their delivery(logistics) commitment the customer?
+> - How are the sellers doing with meeting their delivery(logistics) commitment to the customers?
 > - How are the sellers performing in terms of product review?
-> - Where are the sellers located?  Geolocation data is provided.
->   - Where do we have densely populated sellers and where do have very little seller to meet orders?
-> - How does sellers location affect delivery services
+> - Where are the sellers located?  Geolocation data has been provided.
+>   - Where do we have densely populated sellers and where do have very little sellers to meet orders?
+> - How does sellers location affect delivery services?
 > - Can you discover any seasonlity in our products or ordering pattern 
-> - What is the general sentiment of the tweets about the movement? How has this changed from the start of the movement till now?
-> - Were there any bots or bad actors spreading fake news around the movement?
->   - What are some examples of this fake news?
 > - Determine if there is a relationship between customer satisfaction and product type
 > - Determine if there are sellers who consistently get good review and those who do not
 > - Determine top performing and least performing sellers by order and sales value
 > - Can you detemine what factors make a seller a top performer and least performer
-> I have reviewed the dataset and I strongly believe beyond developing a Seller' Dashboard for <strong>Zimla</strong>, there are other offerings and product we can propose to the management while making our pitch for the job.  Please I look forward to us including these in our product pitch to them.  
+>
+> I have reviewed the dataset and I strongly believe beyond answering the above questions  for <strong>Zimla</strong>, there are other offerings and product we can propose to the management while making our pitch for this job.  Please I look forward to us including these in our product pitch to them.  
 
-> I know we can do this. gentlemen & gadies it's time to roll up our sleeves. Apart from these questions, what other insights can we draw from analysing the data that would help us firmly secure this project?
+> I know we can do this. Gentlemen & ladies, it's time to roll up our sleeves. 
 >
 > Your Lead,
 
@@ -50,7 +48,7 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 - using time series methods predict  order level for each seller for 
   - the next day
   - the next 7-days 
-- Using machine Learning  predict the number and value of orders per seller
+- Using machine Learning  predict the order level and order value per seller for 
   - the next day
   - the next 7-days 
 - Embed your machine learning model in the PowerBI dashboard
@@ -71,8 +69,9 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 
 
 ### Additional Deliverables (compulsory for Data/ML engineers but optional for data scientists)
-- Design a system (be as detailed as possible - you do not need to implement this ) would ensure your solution remain up-to-date with sellers records.
+- Design a system (be as detailed as possible - you do not need to implement this) that would ensure your solution remain up-to-date with sellers daily records.
   - include you design in your presentation 
+  - recommend the infrastructure <strong>Zimla's</strong>  should consider investing in to achieve this.
 
 
 
