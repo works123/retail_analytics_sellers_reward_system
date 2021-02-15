@@ -8,8 +8,9 @@ The CEO would like a comprehensive approach to addressing this challenge hence h
 
 You are part of a data science consulting startup that  has been  asked to do a POC to the XXX management team. The outcome of this would determine if your rganization would be engaged implement the solution for <strong>Zimla</strong>. 
 
+However their is a little glitch, though <strong>Zimla</strong> has  requested that your startup show case your offering, the CEO would not release its company data, he is sceptical. He thinks data science is all media hype and consulting companies' gimmicks.
 
-However their is a little glitch, though <strong>Zimla</strong> has  requested that your startup show case your offering following the recommendation of the XXX management team, the CEO would not release its company data, he is sceptical. He thinks data science is all media hype and consulting companies' gimmicks. Your lead consultant rather than reject the proposal of XXX, is determined to make a case for data science.  Through research and consultation with XXX management your lead consultant  discovered that [Olist Store](https://olist.com/) a similar ecommerce company in Brazil  has made public its ecommerce data with 100k order from 2016 to 2018.  With the permission of XXX he would develop a POC to show case to the XXX management.
+Your lead consultant rather than reject this proposal, is determined to make a case for data science.  Through research and consultation with  <strong>Zimla's</strong>  management, he discovered that [Olist Store](https://olist.com/) a similar ecommerce company in Brazil  has made public its ecommerce data from 2016 to 2018 with 100k order.  With <strong>Zimla's</strong>  permission he would require you and other team members to develop the POC.
 
 > Hello Team,
 > 
