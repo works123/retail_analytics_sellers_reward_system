@@ -2,7 +2,7 @@
 Sellers' Reward System Management Dashboard and Performance Prediction System for an Ecommerce Marketplace Company
 
 ## Brief
-<strong>Zimla</strong>is an ecommerce company that offers a marketplace for sellers and buyers.  Sellers sell their products online, while buyers(customers) make purchases and have their orders delivered to them. Being a marketplace, to remain profitable, <strong>Zimla</strong> requires that its sellers are top notch and consistently exceed customers expectation. In recent months XXX call center have been receiving customers complains around the delivery of their orders. 
+<strong>Zimla</strong> is an ecommerce company that offers a marketplace for sellers and buyers.  Sellers sell their products online, while buyers(customers) make purchases and have their orders delivered to them. Being a marketplace, to remain profitable, <strong>Zimla</strong> requires that its sellers are top notch and consistently exceed customers expectation. In recent months XXX call center have been receiving customers complains around the delivery of their orders. 
 
 The CEO would like a comprehensive approach to addressing this challenge hence has recommended that a Sellers' Reward System Management dashboard, through which sellers can in real time be effectively managed and monitored. He expects that this significantly improve customers' reviews and result in increased revenue this  year.
 
@@ -33,7 +33,7 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 > - Can you detemine what factors make a seller a top performer and least performer
 > I have reviewed the dataset and I strongly believe beyond developing a Seller' Dashboard for <strong>Zimla</strong>, there are other offerings and product we can propose to the management while making our pitch for the job.  Please I look forward to us including these in our product pitch to them.  
 
-> I know we can do this. Gentlemen & Ladies its time to roll up our sleeves.Apart from these questions, if you could use your initiative to also do more analysis and come up with more inisghts then that would be even better.
+> I know we can do this. gentlemen & gadies it's time to roll up our sleeves. Apart from these questions, if you could use your initiative to also do more analysis and come up with more inisghts then that would be even better.
 >
 > Your Lead,
 
