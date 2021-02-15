@@ -2,11 +2,7 @@
 Sellers' Reward System Management Dashboard and Performance Prediction System for an Ecommerce Marketplace Company
 
 ## Brief
-<<<<<<< HEAD
 <strong>Zimla</strong> is an ecommerce company that offers a marketplace for sellers and buyers.  Sellers sell their products online, while buyers(customers) make purchases and have their orders delivered to them. Being a marketplace, to remain profitable, <strong>Zimla</strong> requires that its sellers are top notch and consistently exceed customers expectation. In recent months, its  call center has  been receiving customers complains around the delivery of their orders. 
-=======
-<strong>Zimla</strong>is an ecommerce company that offers a marketplace for sellers and buyers.  Sellers sell their products online, while buyers(customers) make purchases and have their orders delivered to them. Being a marketplace, to remain profitable, <strong>Zimla</strong> requires that its sellers are top notch and consistently exceed customers expectation. In recent months its call center has been receiving customers complains around the delivery of their orders. 
->>>>>>> 219ba3095ec0fbfbd4fb8b4d3ce135daf5f967e7
 
 The CEO would like a comprehensive approach to addressing this challenge hence has recommended that a Sellers' Reward System Management dashboard, through which sellers can in real time be effectively managed and monitored. He expects that this significantly improve customers' reviews and result in increased revenue this  year.
 
@@ -52,11 +48,11 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 - Create a PowerBI dashboard 
 . Create a database system  for the dashboard
 - using time series methods predict  order level for each seller for 
- - the next day
- - the next 7-days 
+  - the next day
+  - the next 7-days 
 - Using machine Learning  predict the number and value of orders per seller
- - the next day
- - the next 7-days 
+  - the next day
+  - the next 7-days 
 - Embed your machine learning model in the PowerBI dashboard
 
 ### Deliverables
