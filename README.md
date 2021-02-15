@@ -1,4 +1,4 @@
-# #Retail Analytics 
+# #Retail Analytics: Sellers' Management System
 Sellers' Reward System Management Dashboard and Performance Prediction System for an Ecommerce Marketplace Company
 
 ## Brief
@@ -20,7 +20,7 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 > - How many orders are each sellers getting weekly, monthly and yearly?
 > - How are the sellers doing with meeting their delivery(logistics) commitment the customer?
 > - How are the sellers performing in terms of product review?
-> - Where are the sellers located?  Geolocation data is provided?
+> - Where are the sellers located?  Geolocation data is provided.
 >   - Where do we have densely populated sellers and where do have very little seller to meet orders?
 > - How does sellers location affect delivery services
 > - Can you discover any seasonlity in our products or ordering pattern 
