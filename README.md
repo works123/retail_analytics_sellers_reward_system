@@ -33,7 +33,7 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 > - Can you detemine what factors make a seller a top performer and least performer
 > I have reviewed the dataset and I strongly believe beyond developing a Seller' Dashboard for <strong>Zimla</strong>, there are other offerings and product we can propose to the management while making our pitch for the job.  Please I look forward to us including these in our product pitch to them.  
 
-> I know we can do this. gentlemen & gadies it's time to roll up our sleeves. Apart from these questions, if you could use your initiative to also do more analysis and come up with more inisghts then that would be even better.
+> I know we can do this. gentlemen & gadies it's time to roll up our sleeves. Apart from these questions, what other insights can we draw from analysing the data that would help us firmly secure this project?
 >
 > Your Lead,
 
