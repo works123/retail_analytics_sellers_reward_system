@@ -2,7 +2,7 @@
 Sellers' Reward System Management Dashboard and Performance Prediction System for an Ecommerce Marketplace Company
 
 ## Brief
-<strong>Zimla</strong> is an ecommerce company that offers a marketplace for sellers and buyers.  Sellers sell their products online, while buyers(customers) make purchases and have their orders delivered to them. Being a marketplace, to remain profitable, <strong>Zimla</strong> requires that its sellers are top notch and consistently exceed customers expectation. In recent months XXX call center have been receiving customers complains around the delivery of their orders. 
+<strong>Zimla</strong> is an ecommerce company that offers a marketplace for sellers and buyers.  Sellers sell their products online, while buyers(customers) make purchases and have their orders delivered to them. Being a marketplace, to remain profitable, <strong>Zimla</strong> requires that its sellers are top notch and consistently exceed customers expectation. In recent months, its  call center has  been receiving customers complains around the delivery of their orders. 
 
 The CEO would like a comprehensive approach to addressing this challenge hence has recommended that a Sellers' Reward System Management dashboard, through which sellers can in real time be effectively managed and monitored. He expects that this significantly improve customers' reviews and result in increased revenue this  year.
 
@@ -67,7 +67,7 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 - Deploy your database system in a Cloud infrasture
 - Deploy your machine learning model as an API in the Cloud
 - Test your API using Postman.
-- 
+
 
 
 ### Additional Deliverables (compulsory for Data/ML engineers but optional for data scientists)
